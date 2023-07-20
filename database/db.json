@@ -1,0 +1,120 @@
+{
+  "autores": [
+    {
+      "id": 1,
+      "nombre": "J. K. Rowling",
+      "nacionalidad": "Britanica",
+      "fecha_nacimiento": "31/07/1965",
+      "genero_literario": "Novela Fantastica"
+    },
+    {
+      "id": 2,
+      "nombre": "George R. R. Martin",
+      "nacionalidad": "Estadounidense",
+      "fecha_nacimiento": "20/09/1948",
+      "genero_literario": "Fantasia"
+    },
+    {
+      "id": 3,
+      "nombre": "J. R. R. Tolkien",
+      "nacionalidad": "Britanico",
+      "fecha_nacimiento": "03/01/1982",
+      "genero_literario": "Novela Fantastica"
+    },
+    {
+      "id": 4,
+      "nombre": "Edgar Rice Burroughs",
+      "nacionalidad": "Estadounidense",
+      "fecha_nacimiento": "19/03/1950",
+      "genero_literario": "Ciencia Ficcion"
+    },
+    {
+      "id": 5,
+      "nombre": "Stephen King",
+      "nacionalidad": "Estadounidense",
+      "fecha_nacimiento": "21/09/1947",
+      "genero_literario": "Terror"
+    },
+    {
+      "nombre": "Grover Peñafiel",
+      "nacionalidad": "Boliviano",
+      "fecha_nacimiento": "01/01/1900",
+      "genero_literario": "Ciencia ficcion",
+      "id": 6
+    }
+  ],
+  "libros": [
+    {
+      "id": 1,
+      "titulo": "Harry Potter y la piedra filosofal",
+      "editorial": "Salamandra",
+      "anio": 1987,
+      "numero_paginas": 3665,
+      "autoresId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Una princesa de Marte",
+      "editorial": "A. C. McClurg",
+      "anio": 1917,
+      "numero_paginas": 326,
+      "autoresId": 4
+    },
+    {
+      "id": 3,
+      "titulo": "El hobbit: la desolación de Smaug",
+      "editorial": "Ediciones Minotauro",
+      "anio": 1938,
+      "numero_paginas": 3201,
+      "autoresId": 3
+    },
+    {
+      "id": 4,
+      "titulo": "Canción de hielo y fuego",
+      "editorial": "Ediciones Gigamesh",
+      "anio": 1996,
+      "numero_paginas": 1905,
+      "autoresId": 2
+    },
+    {
+      "id": 5,
+      "titulo": "El Resplandor",
+      "editorial": "Pomaire",
+      "anio": 1997,
+      "numero_paginas": 599,
+      "autoresId": 2
+    },
+    {
+      "id": 6,
+      "titulo": "Animales Fantasticos y Donde Encontrarlos",
+      "editorial": "Salamadra",
+      "anio": 2001,
+      "numero_paginas": 610,
+      "autoresId": 1
+    },
+    {
+      "id": 7,
+      "titulo": "Los cuentos de Beedle el Bardo",
+      "editorial": "Salamadra",
+      "anio": 2008,
+      "numero_paginas": 128,
+      "autoresId": 1
+    },
+    {
+      "id": 8,
+      "titulo": "Harry Potter y el cáliz de fuego",
+      "editorial": "Salamadra",
+      "anio": 2000,
+      "numero_paginas": 784,
+      "autoresId": 6
+    },
+    {
+      "titulo": "Harry Potter y el Caliz de fuego",
+      "editorial": "Donbosco",
+      "anio": "2010",
+      "numero_paginas": "352",
+      "autoresId": 2,
+      "id": 9
+    }
+  ]
+}
